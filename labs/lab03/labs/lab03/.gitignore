@@ -1,0 +1,15 @@
+# Julia
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+Manifest.toml
+LocalPreferences.toml
+
+# Видео
+videos/*.mp4
+
+# Системные
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/
+.quarto/

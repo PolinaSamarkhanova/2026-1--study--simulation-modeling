@@ -1,0 +1,15 @@
+# Julia
+Manifest.toml
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Data and logs
+*.log
+*.tmp
+*.jld2
+*.jld
